@@ -1,0 +1,22 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Uploaded documents
+data/uploads/*
+data/processed/*
+
+# Keep folder structure
+!data/uploads/.gitkeep
+!data/processed/.gitkeep
+
+# Evaluation temporary files
+.pytest_cache/
+
+# IDE
+.vscode/

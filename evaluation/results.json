@@ -1,0 +1,20 @@
+[
+    {
+        "question": "What is Generative AI?",
+        "retrieval_score": 100.0,
+        "answer_score": 50.0,
+        "response_time": 8.9
+    },
+    {
+        "question": "What is Amazon Bedrock?",
+        "retrieval_score": 100.0,
+        "answer_score": 100.0,
+        "response_time": 3.2
+    },
+    {
+        "question": "What is RAG?",
+        "retrieval_score": 100.0,
+        "answer_score": 50.0,
+        "response_time": 8.06
+    }
+]

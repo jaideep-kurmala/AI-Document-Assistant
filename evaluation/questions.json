@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is Generative AI?",
+        "expected_keywords": ["generative", "content"]
+    },
+    {
+        "question": "What is Amazon Bedrock?",
+        "expected_keywords": ["bedrock", "model"]
+    },
+    {
+        "question": "What is RAG?",
+        "expected_keywords": ["retrieval", "generation"]
+    }
+]
